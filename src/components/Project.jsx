@@ -9,17 +9,17 @@ function Project(){
       {
         image: portfolio,
         description:"Designed and developed a responsive personal portfolio website to showcase skills,projects, and Resume. Utilized HTML, CSS, Reactjs and TailwindCss to create a modern, user-friendly interface that adapts to different screen sizes.",
-        link:"https://github.com/Paramasivam2003/portfolio",
+        link:"https://personal-portfolio-seven-rosy.vercel.app/",
       },
       {
         image: Ecommerce,
         description:"Developed a fully functional eCommerce website using React.js and a Fake API for productmanagement, shopping cart, and checkout functionalities.",
-        link:"https://github.com/Paramasivam2003/E-commerce",
+        link:"https://e-commerce-indol-theta-87.vercel.app/",
       },
       {
         image: Euroland,
         description:"basic static euroland project using ht6ml and css",
-        link:"https://github.com/Paramasivam2003/Euroland-website",
+        link:"https://euroland-website.vercel.app/",
       },
     ]
   }

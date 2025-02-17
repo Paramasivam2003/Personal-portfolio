@@ -27,7 +27,7 @@ function Section(){
         </div>
 
     </div>
-    <img className='md:w-1/3'  src={heroimg} alt="" />
+    <img className='md:w-1/3 photo'  src={heroimg} alt="" />
   </section>
   )
 }

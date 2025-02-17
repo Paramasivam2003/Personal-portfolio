@@ -41,3 +41,9 @@ header ul li{
 html{
   scroll-behavior: smooth;
 }
+
+.photo{
+  border-radius: 80%;
+  width: 348px;
+  height: 366px;
+}

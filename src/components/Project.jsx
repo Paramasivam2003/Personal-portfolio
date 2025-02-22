@@ -1,5 +1,5 @@
 import portfolio from '../assets/Personal portfolio.png';
-import Ecommerce from '../assets/Ecommerce.png';
+import Ecommerce from '../assets/Ecommerce.png'
 import Euroland from '../assets/Euroland.png';
 
 function Project(){
@@ -13,12 +13,12 @@ function Project(){
       },
       {
         image: Ecommerce,
-        description:"Developed a fully functional eCommerce website using React.js and a Fake API for productmanagement, shopping cart, and checkout functionalities.",
+        description:"Developed a fully functional eCommerce website using React.js and a Fake API for productmanagement, shopping cart, and AddToCart functionalities.",
         link:"https://shopping-website-six-rose.vercel.app/",
       },
       {
         image: Euroland,
-        description:"basic static euroland project using ht6ml and css",
+        description:"basic static euroland project using html5 and css3",
         link:"https://euroland-website.vercel.app/",
       },
     ]

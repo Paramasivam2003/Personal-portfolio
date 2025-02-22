@@ -14,7 +14,7 @@ function Project(){
       {
         image: Ecommerce,
         description:"Developed a fully functional eCommerce website using React.js and a Fake API for productmanagement, shopping cart, and checkout functionalities.",
-        link:"https://e-commerce-indol-theta-87.vercel.app/",
+        link:"https://shopping-website-six-rose.vercel.app/",
       },
       {
         image: Euroland,
